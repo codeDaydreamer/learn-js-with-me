@@ -36,11 +36,11 @@ This roadmap spans over **4 months**, covering **JavaScript (Node.js backend dev
  ┣ 📂 projects _(Completed projects)_  
  ┗ 📜 README.md _(This file)_  
 
-
 ---
+
 ## 📚 Resources
-- [Eloquent JavaScript](https://eloquentjavascript.net/)
-- [The Odin Project - Node.js](https://www.theodinproject.com/)
-- [Node.js & Express.js Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
+- <a href="https://eloquentjavascript.net/" target="_blank">Eloquent JavaScript</a>
+- <a href="https://www.theodinproject.com/" target="_blank">The Odin Project - Node.js</a>
+- <a href="https://www.youtube.com/watch?v=L72fhGm1tfE" target="_blank">Node.js & Express.js Crash Course</a>
 
 🚀 **Follow my progress & contributions in this repo!**
