@@ -1,0 +1,50 @@
+.counterdiv{
+  
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    font-size: 1em;
+    font-weight: bold;
+    background-color: #51b1ff;
+   
+}
+h1{
+    font-size: 2em;
+    font-weight: bold;
+    color: #ff0000;
+    text-align: center;
+}
+p{
+    font-size: 3.5em;
+    font-weight: bold;
+    color: #ff0000;
+    text-align: center;
+}
+button{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #ff0000;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    cursor: pointer;
+   transition: 0.5s ease-in;
+}
+button:hover {
+    scale: 1.1;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#increase{
+background-color: aquamarine;
+}
+#decrease{
+background-color: #f5ff70;
+}
+#reset{
+    background-color: rgb(72, 255, 72);
+}
