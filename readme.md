@@ -54,9 +54,10 @@ This repository documents my journey learning JavaScript from scratch with a han
 
 ## 📚 Learning Resources  
 - 📖 [Eloquent JavaScript](https://eloquentjavascript.net/)  
-- 🛠️ [The Odin Project - JavaScript](https://www.theodinproject.com/)  
-- 🎥 [Node.js & Express.js Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)  
-- 🎥 [Bro Code - Full JavaScript Course](https://www.youtube.com/watch?v=lfmg-EJ8gm4&t=8829s)  
+- 🛠️ [The Odin Project - JavaScript](https://www.theodinproject.com/)   
+- 🎥 [Bro Code - Full JavaScript Fundamentals Course](https://www.youtube.com/watch?v=lfmg-EJ8gm4&t=8829s)  
+- 🎥 [Node.js Crash Course](https://www.youtube.com/watch?v=32M1al-Y6Ag)
+- 🎥 [Express.js Crash Course](https://www.youtube.com/watch?v=CnH3kAXSrmU)
 
 🚀 **Follow my progress & contributions in this repo!**  
 
