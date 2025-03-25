@@ -1,46 +1,62 @@
 # Learn JavaScript with Me 🚀
 
-This repository documents my journey learning JavaScript from scratch with a hands-on, project-based approach.  
-
-## 📅 Learning Roadmap (4 Months)
-This roadmap spans over **4 months**, covering **JavaScript (Node.js backend development)** with weekly goals and projects.
-
-### 📌 Month 1: JavaScript Fundamentals & CLI Development
-- **Week 1:** JavaScript Basics (Variables, Functions, Arrays, Objects, ES6+ Features)
-- **Week 2:** Node.js & Express.js (Routing, Middleware, REST API)
-- **Week 3:** Databases & Authentication (MongoDB/MySQL, Sequelize/Mongoose, JWT)
-- **Week 4:** API Optimization & Deployment (Pagination, Caching, Rate Limiting)
-
-**📍 Project:** A **CLI tool** and a **Bookstore REST API**.
-
-### 📌 Month 2: Advanced JavaScript & Full-Stack Development
-- **Week 5:** Deep dive into Async JS, WebSockets, and Real-Time Applications.
-- **Week 6:** Build a Full-Stack App with Vue.js/React & Express.js.
-- **Week 7:** User Authentication & Role-based Access Control.
-- **Week 8:** Performance Optimization & Security Best Practices.
-
-**📍 Project:** **User Auth API & Full-Stack App**.
-
-### 📌 Month 3-4: API Design, Testing & Large-Scale Apps
-- **Week 9:** API Architecture Best Practices & Testing (Jest, Supertest)
-- **Week 10:** Microservices & Event-Driven Architecture.
-- **Week 11:** WebSockets & Real-Time Features (Notifications, Chat)
-- **Week 12-16:** **Final Full-Stack Project (Custom SaaS, Birdseye, or E-commerce)**
+This repository documents my journey learning JavaScript from scratch with a hands-on, project-based approach.
 
 ---
 
-## 📁 Repository Structure
+## 📅 Progress Overview  
+
+📌 **Current Progress:** **Week 1, Day 5**  
+✔️ **Completed Topics:** **19/30**  
+✔️ **Mini Projects:** **2/2**  
+
+---
+
+## 📌 Week 1: JavaScript Fundamentals  
+
+### ✅ Completed Topics (Arranged in Learning Order)
+1. **Variables**  
+2. **Constants**  
+3. **Arithmetic Operators**  
+4. **Type Conversions**  
+5. **String Methods**  
+6. **User Input**  
+7. **Functions**  
+8. **Function Expressions**  
+9. **Callbacks**  
+10. **For Each Method**  
+11. **The Map Method**  
+12. **Ternary Operator**  
+13. **Switches**  
+14. **Objects in JavaScript**  
+15. **Math Object**  
+16. **Spread and Rest Operators**  
+17. **Constructors**  
+18. **Classes**  
+19. **Getters and Setters**  
+
+---
+
+## 🛠️ Mini Projects  
+✔️ **Counter Program**  
+✔️ **Temperature Converter** (_index.html, index.js, style.css_)  
+
+---
+
+## 📁 Repository Structure  
 📂 learn-js-with-me  
- ┣ 📂 week-01 _(JavaScript Basics, Mini-Project)_  
- ┣ 📂 week-02 _(Node.js & Express)_  
- ┣ 📂 projects _(Completed projects)_  
+ ┣ 📂 week-01 _(JavaScript Basics, Mini-Project)_   
  ┗ 📜 README.md _(This file)_  
 
 ---
 
-## 📚 Resources
-- <a href="https://eloquentjavascript.net/" target="_blank">Eloquent JavaScript</a>
-- <a href="https://www.theodinproject.com/" target="_blank">The Odin Project - Node.js</a>
-- <a href="https://www.youtube.com/watch?v=L72fhGm1tfE" target="_blank">Node.js & Express.js Crash Course</a>
 
-🚀 **Follow my progress & contributions in this repo!**
+
+## 📚 Learning Resources  
+- 📖 [Eloquent JavaScript](https://eloquentjavascript.net/)  
+- 🛠️ [The Odin Project - JavaScript](https://www.theodinproject.com/)  
+- 🎥 [Node.js & Express.js Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)  
+- 🎥 [Bro Code - Full JavaScript Course](https://www.youtube.com/watch?v=lfmg-EJ8gm4&t=8829s)  
+
+🚀 **Follow my progress & contributions in this repo!**  
+
