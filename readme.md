@@ -6,9 +6,9 @@ This repository documents my journey learning JavaScript from scratch with a han
 
 ## 📅 Progress Overview  
 
-📌 **Current Progress:** **Week 1, Day 5**  
-✔️ **Completed Topics:** **19/30**  
-✔️ **Mini Projects:** **2/2**  
+📌 **Current Progress:** **Week 1, Day 6**  
+✔️ **Completed Topics:** **24/40**  
+✔️ **Mini Projects:** **3/3**  
 
 ---
 
@@ -34,6 +34,12 @@ This repository documents my journey learning JavaScript from scratch with a han
 17. **Constructors**  
 18. **Classes**  
 19. **Getters and Setters**  
+20. **Destructuring** 
+21. **Nested Objects**
+22. **Array of objects**
+23. **the sort method**
+24. **Date objects**
+
 
 ---
 
