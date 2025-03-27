@@ -39,13 +39,17 @@ This repository documents my journey learning JavaScript from scratch with a han
 22. **Array of objects**
 23. **the sort method**
 24. **Date objects**
+25. **Closures**
+26. **Set Timeout**
 
 
 ---
 
 ## 🛠️ Mini Projects  
 ✔️ **Counter Program**  
-✔️ **Temperature Converter** (_index.html, index.js, style.css_)  
+✔️ **Temperature Converter**  
+✔️ **Shuffling Cards**
+✔️ **Digital Clock**  
 
 ---
 
